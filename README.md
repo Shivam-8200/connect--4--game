@@ -1,6 +1,13 @@
 # 🎮 Connect Four Game
 
-A browser-based implementation of the classic **Connect Four** game using **HTML**, **CSS**, and **JavaScript**. This project demonstrates DOM manipulation, event handling, and game logic in a fun and interactive way.
+A browser-based implementation of the classic **Connect Four** game using **HTML**, **CSS**, and **JavaScript**. This project showcases dynamic UI updates, game logic handling, and responsive design — all with no external libraries.
+
+---
+
+## 🔗 Live Demo
+
+👉 [Play Now](https://shivam-8200.github.io/connect--4--game/)  
+_No installation required — just open in your browser and enjoy!_
 
 ---
 
@@ -10,9 +17,7 @@ A browser-based implementation of the classic **Connect Four** game using **HTML
 - [Tech Stack](#tech-stack)
 - [Features](#features)
 - [How to Play](#how-to-play)
-- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -21,7 +26,7 @@ A browser-based implementation of the classic **Connect Four** game using **HTML
 
 ## 🎯 About the Game
 
-**Connect Four** is a two-player game where each player takes turns dropping colored discs into a 7-column, 6-row grid. The first to connect **four discs in a row** — horizontally, vertically, or diagonally — wins!
+**Connect Four** is a two-player strategy game where players alternate turns dropping colored discs into a grid. The objective is to be the first to form a horizontal, vertical, or diagonal line of **four** of one's own discs.
 
 ---
 
@@ -29,33 +34,33 @@ A browser-based implementation of the classic **Connect Four** game using **HTML
 
 - ⚙️ HTML5
 - 🎨 CSS3
-- 🧠 JavaScript (Vanilla JS)
+- 🧠 JavaScript (Vanilla)
 
 ---
 
 ## ✨ Features
 
-- 👨‍💻 Two-player local gameplay
-- 🧠 Win condition logic (horizontal, vertical, diagonal)
-- 📉 Draw detection
-- 🔄 Reset game functionality
-- 🎨 Interactive UI with hover effects
+- 🧑‍🤝‍🧑 Two-player mode (local)
+- 📏 Grid-based board logic
+- ✅ Win and draw detection
+- ♻️ Reset/restart functionality
+- 🖱️ Click-based interactivity
+- 📱 Responsive and lightweight
 
 ---
 
 ## 🎮 How to Play
 
-1. Open the game in your browser.
-2. Players alternate turns dropping discs into columns.
-3. First player to connect **4 discs** in a line wins.
-4. If the board is full and no player has won, it’s a draw.
-5. Click **Restart** to play again.
+1. Click on any column to drop your colored disc.
+2. Players take turns until one connects **4 in a row** — horizontally, vertically, or diagonally.
+3. If the board fills without a winner, it’s a **draw**.
+4. Use the **Restart** button to play again.
 
 ---
 
 ## 🖼️ Screenshots
 
-> _You can add screenshots of the game board here if available._
+> _Add game screenshots here to showcase gameplay visually._
 
 ---
 
@@ -64,5 +69,25 @@ A browser-based implementation of the classic **Connect Four** game using **HTML
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/connect-four.git
-cd connect-four
+git clone https://github.com/Shivam-8200/connect--4--game.git
+cd connect--4--game
+```
+start index.html
+# or double-click index.html
+
+🤝 Contributing
+Have ideas for improvements?
+Feel free to fork the repository and open a pull request! Contributions are welcome. 🌟
+
+📄 License
+This project is licensed under the MIT License.
+
+📬 Contact
+Shivam Prasad
+📍 Bhubaneswar, Odisha, India
+🔗 GitHub
+
+
+
+
+
